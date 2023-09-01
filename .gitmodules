@@ -1,0 +1,3 @@
+[submodule "josean/dev-environment-files"]
+	path = josean/dev-environment-files
+	url = https://github.com/thanh-nt25/nvim-config.git
